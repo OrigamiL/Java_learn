@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JDBC/JDBC.iml" filepath="$PROJECT_DIR$/../JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day18/chapter23/MysqlTest.iml" filepath="$PROJECT_DIR$/../day18/chapter23/MysqlTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ThreadChapter/ThreadChapter.iml" filepath="$PROJECT_DIR$/../ThreadChapter/ThreadChapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day18/chapter23/chapter23.iml" filepath="$PROJECT_DIR$/../day18/chapter23/chapter23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17.iml" filepath="$PROJECT_DIR$/day17.iml" />
+    </modules>
+  </component>
+</project>
