@@ -1,6 +1,6 @@
 package com.weifang.test;
 
-public class Artillery extends Weapon implements Attackable {
+public class Artillery extends Weapon implements Attachable {
     public Artillery() {
     }
 

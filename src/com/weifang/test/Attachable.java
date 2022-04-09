@@ -1,5 +1,5 @@
 package com.weifang.test;
 
-public interface Attackable {
+public interface Attachable {
     void attack();
 }
